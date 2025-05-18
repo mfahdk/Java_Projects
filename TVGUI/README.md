@@ -91,6 +91,4 @@ App
 
 # Code Demonstration
 
-![JavaFX](https://github.com/mfahdk/Java_TVGui/assets/158589984/6ee2109b-cbb0-4bef-aba4-9ba36edce515)
-
-
+![Image](https://github.com/user-attachments/assets/1f21dc8f-c79c-4e30-a794-7141d79929d2)
